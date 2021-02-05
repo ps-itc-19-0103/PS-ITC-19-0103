@@ -5,7 +5,7 @@
 int main() {
     double quantity_sold;  //use to store items sold
 
-string customer;  //use to store user name
+double customer;  //use to store user name
 int id;  //use to store the things purchase by the user
 
 float vat = 12%;
